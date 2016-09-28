@@ -1,0 +1,9 @@
+Antonino Febbraro-I like to do Computer Science-Lauren Puccio,Bruce Wayne,John Smith$
+John Smith-I like to play Baseball-Antonino Febbraro,Lauren Puccio$
+Bruce Wayne-I am Batman-Nono Febbraro,Antonino Febbraro$
+Lauren Puccio-I am a Bio Major at the University of Pittsburgh-Antonino Febbraro,Nono Febbraro$
+Nono Febbraro-I am Nono-Antonino Febbraro,Bruce Wayne,Joe Blow$
+Joe Blow-I am a made up character.-Nono Febbraro,Bruce Wayne$
+Paul Costa-Central Catholic High School-Antonino Febbraro,Lauren Puccio$
+The Joker-Batman's biggest enemy!-Bruce Wayne,Antonino Febbraro,Nono Febbraro$
+John Madden-I annouce football-Bruce Wayne,Nono Febbraro,Antonino Febbraro$

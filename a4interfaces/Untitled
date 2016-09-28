@@ -1,0 +1,7 @@
+public class SeenAllVideosException extends Exception
+{
+  public SeenAllVideosException()
+  {
+    super();
+  }
+}
